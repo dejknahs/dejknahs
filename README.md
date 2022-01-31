@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+My name is Jedidiah Shank and I am an aspiring video game creator
+
+My hobbies are playing video games both casually and competitively as well as watching movies and the occasional volleyball
+
+
+🌱 I’m currently studying Computer Science at CSULB
+
+🔭 I’m currently working on schoolwork and some side projects
+
+
 <!--
 **dejknahs/dejknahs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
